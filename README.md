@@ -35,7 +35,7 @@ Esse projeto foi idealizado pelo curso da Alura "[JavaScript: criando requisiç�
 
  - Tenha o NodeJS instalado
  - Entre na sua IDE 
- - Rode os comandos "npm init" e "json-server --watch db.json" no terminal
+ - Rode os comandos "npm init", "npm install -g json-server  " e "json-server --watch db.json" no terminal
  - Use a extensão LiveServer para visualizar as páginas
 
   ## Tecnologias utilizadas no projeto
